@@ -1,0 +1,57 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-size: 16px;
+}
+.w-100 {
+  width: 100%;
+}
+.boder-us10 {
+  border-radius: 10px;
+}
+.cursor-pointer {
+  cursor: pointer;
+}
+.m8-12 {
+  margin: 8px 12px;
+}
+.p8-12 {
+  padding: 8px 12px;
+}
+.m-top20 {
+  margin-top: 20px;
+}
+.dflex {
+  display: flex;
+  justify-content: space-between;
+}
+.dflex-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.text-center {
+  text-align: center;
+}
+.form-shadow {
+  box-shadow: 2px 0px 4px 3px rgb(220 201 201);
+}
+.boder-light {
+  border: 1px solid #ccc;
+}
+.w-60 {
+  width: 60%;
+}
+.text-decoration {
+  text-decoration: solid #ccc 1px line-through;
+}
+.outline-none {
+  outline: none;
+}
+.text-decoration {
+  text-decoration: line-through 3px solid red;
+}
+.m-right20 {
+  margin-right: 20px;
+}

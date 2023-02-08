@@ -1,0 +1,46 @@
+.sign-in,
+.sign-up {
+  height: 100vh;
+
+  .form-signin,
+  .form-signup {
+    width: 50%;
+    padding: 30px 10px 20px 10px;
+    background-color: white;
+  }
+  h1 {
+    font-size: 1.5rem;
+    text-align: center;
+  }
+  Form {
+    width: 100%;
+    text-align: left;
+    padding: 30px 30px 10px 30px;
+    input {
+      margin: 10px 0 20px 0;
+      outline: none;
+      border-radius: 5px;
+      border: 1px solid #ccc;
+      padding: 5px 0 5px 10px;
+    }
+    button {
+      margin-top: 20px;
+      background-color: rgb(33, 20, 214);
+      outline: none;
+      border: none;
+      color: white;
+    }
+    p {
+      font-size: 0.8rem;
+      color: red;
+    }
+  }
+  .to-signup {
+    text-align: right;
+    padding-right: 20px;
+    a {
+      color: rgb(40, 19, 156);
+      font-weight: 500;
+    }
+  }
+}
